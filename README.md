@@ -6,6 +6,12 @@ pin signals where they live.
 
 The interface is dark, amber-eyed and offline by default. Nothing is uploaded.
 
+## Download
+
+The latest debug-signed APK is attached to
+[Releases](https://github.com/royallorde-maker/erswatcher/releases/latest). Copy it to an Android
+phone, allow installs from that source, and open it.
+
 ## What is in the app
 
 - **Signal recon** - Bluetooth LE scan with names, addresses, RSSI, service UUIDs and camera-like
